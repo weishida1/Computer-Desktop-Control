@@ -1,6 +1,6 @@
 # 桌面自动化控制
 
-### 1、软件下载：[地址](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fweishida01%2Fcomputer-control%2Freleases%2Fdownload%2Fv1.0.3%2Fcomputer_control.exe)
+### 1、软件下载：[地址](https://github.com/weishida1/Computer-Desktop-Control/releases/download/v1.0.0/DesktopControl.exe)
 
 ### 2、软件介绍
 
