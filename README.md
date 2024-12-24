@@ -1,6 +1,11 @@
 # 桌面自动化控制
 
-### 1、软件下载：[地址](https://github.com/weishida1/Computer-Desktop-Control/releases/download/v1.0.0/DesktopControl.exe)
+### 软件2.0更新介绍
+1. 增加循环开始结束工具
+2. 增加刷新速率选择功能
+3. 修改工具易用性
+
+### 1、软件下载：[地址](https://github.com/weishida1/Computer-Desktop-Control/releases/download/v2.0.0/DesktopControl.exe)
 
 ### 2、软件介绍
 
