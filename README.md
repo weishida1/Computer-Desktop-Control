@@ -1,11 +1,17 @@
 # 桌面自动化控制
 
-### 软件2.0更新介绍
-1. 增加循环开始结束工具
-2. 增加刷新速率选择功能
-3. 修改工具易用性
+### 软件3.0更新介绍
+1. 模版匹配增加ok ng输出
+2. 模版匹配增加输出模版位置
+3. 其他工具添加相对模版匹配位置
+4. 循环开始结束增加启动标志循环
+5. 时间戳修改易用性
+6. 添加单次运行功能
+7. 添加循环运行功能
+8. esc 绑定到循环运行的停止功能
+9. 修改工具易用性
 
-### 1、软件下载：[地址](https://github.com/weishida1/Computer-Desktop-Control/releases/download/v2.0.0/DesktopControl.exe)
+### 1、软件下载：[地址](https://github.com/weishida1/Computer-Desktop-Control/releases/download/v3.0.0/DesktopControl.exe)
 
 ### 2、软件介绍
 
